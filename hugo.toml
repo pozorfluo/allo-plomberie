@@ -1,7 +1,46 @@
 baseURL = 'https://pozorfluo.github.io/'
 languageCode = 'en-us'
-title = 'Hello Hugo'
+title = 'Allo Plomberie Chauffage Dépannage'
 theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      table = true
+      linkify = true
+      strikethrough = true
+      taskList = true
+      typographer = true
+      attributes = true
+[menu]
+  [[menu.main]]
+    identifier = "prestations"
+    name = "Prestations"
+    url = "/prestations/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+    
+[params]
+read_more_copy = "En savoir plus"
+
+[params.ananke.social]
+  [params.ananke.social.follow]
+    new_window_icon = false
+    networks = ["facebook"]
+
+  [params.ananke.social.facebook]
+    username = "Allo Plomberie Chauffage Dépannage"
+    profilelink = "https://www.facebook.com/profile.php?id=61568851388029"
+    label = "Follow us on Facebook"
+    icon = "facebook"
+    color = "#3b5998"

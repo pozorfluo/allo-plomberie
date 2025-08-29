@@ -1,0 +1,13 @@
+.hours-table {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  border-collapse: collapse;
+  width: auto;
+  text-align: center;
+}
+
+.hours-table th,
+.hours-table td {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+}
