@@ -32,9 +32,8 @@ featured_image: "/images/hero_07.jpg"
 #### installation de lavabo
 #### installation de wc
 #### nettoyage de radiateur
-#### nettoyage de sanitaire
+
 #### nettoyage de tuyauterie
-#### nettoyage de wc
 #### plomberie en cuivre
 #### plomberie pour gaz
 #### plomberie en pvc
