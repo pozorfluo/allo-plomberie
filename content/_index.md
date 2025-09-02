@@ -10,7 +10,7 @@ Nous proposons également des services de plomberie de sanitaire, de robinetteri
 
 Nous sommes habilités à changer les chauffe-eau, à entretenir les canalisations et à rénover les sanitaires.
 
-Nous sommes également en mesure de déboucher les canalisations, de réparer les fuites de robinet et de nettoyer les radiateurs et les WC.
+Nous sommes également en mesure de déboucher les canalisations, de réparer les fuites de robinet et de nettoyer les radiateurs.
 
 Contactez-nous pour tous vos besoins en plomberie et dépannage !
 
