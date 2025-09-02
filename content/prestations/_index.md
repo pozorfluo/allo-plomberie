@@ -10,7 +10,7 @@ featured_image: "/images/hero_07.jpg"
 #### changement de chauffe-eau
 #### réparation de chauffe-eau
 #### plomberie de salle de bain
-#### installateur de cabine de douche
+#### installation d'une cabine de douche
 #### rénovation de salle de bain
 #### installation de sanitaire
 #### rénovation de sanitaire
