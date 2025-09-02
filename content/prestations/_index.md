@@ -38,3 +38,4 @@ featured_image: "/images/hero_07.jpg"
 #### plomberie pour gaz
 #### plomberie en pvc
 #### remplacement chaudière
+#### pose de receveur douche
