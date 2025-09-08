@@ -2,6 +2,8 @@ baseURL = 'https://pozorfluo.github.io/'
 languageCode = 'en-us'
 title = 'Allo Plomberie Chauffage Dépannage'
 theme = 'ananke'
+enableRobotsTXT = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
